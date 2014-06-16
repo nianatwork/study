@@ -1,7 +1,7 @@
 
 i
 hello xu.txt from branch 1
-
+ttttt
 add sth here from master
 test here for git diff
 hello here........from master agai
