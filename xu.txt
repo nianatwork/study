@@ -4,4 +4,5 @@ hello xu.txt from branch 1
 qqqq
 add sth here from master
 test here for git diff
-hello here........from master again
+hello here........from master agai
+add for amend
