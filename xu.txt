@@ -1,8 +1,8 @@
 
 i
 hello xu.txt from branch 1
-
+qqqq
 add sth here from master
-test here for git diff
+test here for git diffqeq
 hello here........from master agai
-add for amend
+deleted
